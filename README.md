@@ -4,7 +4,9 @@ TubeyRoll is an experimental Android TV / Fire TV adaptation of [SmartTube](http
 
 ## Install
 
-Download the APK from [Releases](https://github.com/MadeByGoodTools/TubeyRoll/releases) using a browser or the Downloader app on your TV. Enable installation from Downloader when Fire TV asks. The Android package is `ca.goodtools.tubeyroll.beta`, separate from SmartTube.
+In the Downloader app on your TV, enter **9478619**. The [Downloader short link](https://aftv.news/9478619) points to the `32.47-tubeyroll.27` APK in this repository. You can also download it from [Releases](https://github.com/MadeByGoodTools/TubeyRoll/releases). Enable installation from Downloader when Fire TV asks. The Android package is `ca.goodtools.tubeyroll.beta`, separate from SmartTube.
+
+The code is tied to this beta APK; check the latest release page for a newer build before installing in the future.
 
 This is a **debug-signed beta**, not a production release. Sign-in, playback on every TV, and all remote-control behavior have not been verified across devices. Only download from this repository or the Good Tools site, and check the release notes before updating.
 
