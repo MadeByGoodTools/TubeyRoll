@@ -1,12 +1,12 @@
 {
   "package": {
-    "downloadUrl": "https://github.com/MadeByGoodTools/TubeyRoll/releases/download/v32.47-tubeyroll.28-beta/TubeyRoll-Firestick-v2465-debug.apk"
+    "downloadUrl": "https://github.com/MadeByGoodTools/TubeyRoll/releases/download/v32.47-tubeyroll.29-beta/TubeyRoll-Firestick-v2466-debug.apk"
   },
-  "32.47-tubeyroll.28": {
-    "versionCode": 2465,
+  "32.47-tubeyroll.29": {
+    "versionCode": 2466,
     "changelog": [
-      "TubeyRoll beta now checks its own update channel from the TV app.",
-      "Future beta updates can be installed from the in-app update prompt."
+      "Up Next now appears below Subscriptions in the TV sidebar.",
+      "Open the existing playback queue directly from the menu."
     ]
   }
 }
