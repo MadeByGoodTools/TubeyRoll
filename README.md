@@ -4,11 +4,11 @@ TubeyRoll is an experimental Android TV / Fire TV adaptation of [SmartTube](http
 
 ## Install
 
-Install the [current `.29` beta APK](https://github.com/MadeByGoodTools/TubeyRoll/releases/download/v32.47-tubeyroll.29-beta/TubeyRoll-Firestick-v2466-debug.apk) from [Releases](https://github.com/MadeByGoodTools/TubeyRoll/releases). Enable installation from Downloader when Fire TV asks. The Android package is `ca.goodtools.tubeyroll.beta`, separate from SmartTube.
+Install the [current `.30` beta APK](https://github.com/MadeByGoodTools/TubeyRoll/releases/download/v32.47-tubeyroll.30-beta/TubeyRoll-Firestick-v2467-debug.apk) from [Releases](https://github.com/MadeByGoodTools/TubeyRoll/releases). Enable installation from Downloader when Fire TV asks. The Android package is `ca.goodtools.tubeyroll.beta`, separate from SmartTube.
 
-In the Downloader app, enter **5009649** for the `.28` APK. The matching short link is [aftv.news/5009649](https://aftv.news/5009649). This code still installs `.28`, not `.29`; use the in-app update check after installing `.28`, or enter the direct `.29` release URL in Downloader.
+In the Downloader app, enter **5009649** for the `.28` APK. The matching short link is [aftv.news/5009649](https://aftv.news/5009649). This code still installs `.28`, not `.30`; use the in-app update check after installing `.28`, or enter the direct `.30` release URL in Downloader.
 
-The `.28` beta introduced a TubeyRoll-only in-app update channel. The `.27` beta cannot discover `.28` on its own, so install `.28` manually once. The `.29` beta adds Up Next to the sidebar. Keep the same package and signing key when publishing future beta APKs; Android will reject an update signed with a different key.
+The `.28` beta introduced a TubeyRoll-only in-app update channel. The `.27` beta cannot discover `.28` on its own, so install `.28` manually once. The `.29` beta added Up Next; `.30` adds Watch Modes, improved Continue Watching, saved/reorderable queues, quick channel controls, and playback recovery. Keep the same package and signing key when publishing future beta APKs; Android will reject an update signed with a different key.
 
 Check the release page for the newest beta before installing manually.
 
